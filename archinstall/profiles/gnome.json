@@ -1,0 +1,7 @@
+{
+  "packages": "gnome-shell gnome-settings-daemon gdm gnome-console firefox gnome-control-center gnome-shell-extension-appindicator evince nautilus baobab",
+  "commands": [
+    "systemctl enable gdm",
+    "mkdir /data"
+  ]
+}
